@@ -1,0 +1,59 @@
+.timeAccessed-para {
+  font-family: 'Roboto';
+  font-size: 15px;
+  color: #64748b;
+  margin-right: 30px;
+}
+.logo-style {
+  width: 20px;
+  margin-right: 10px;
+}
+.list-item {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 80%;
+  padding: 10px;
+  padding-right: 25px;
+}
+.url-style {
+  font-family: 'Roboto';
+  font-size: 15px;
+  color: #64748b;
+}
+.ul-div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.btn {
+  font-family: 'Roboto';
+  font-size: 10px;
+  width: 30px;
+  height: 30px;
+  background-color: transparent;
+  border-color: transparent;
+}
+.delete-icon {
+  background-color: transparent;
+}
+.title-style {
+  font-family: 'Roboto';
+  font-size: 16px;
+  color: #475569;
+  font-weight: bold;
+  margin-right: 20px;
+}
+.logo-container {
+  display: flex;
+  align-items: center;
+}
+.heading {
+  font-family: 'Roboto';
+  font-size: 30px;
+  font-weight: bold;
+  color: #ffc2a0;
+  margin-bottom: 10px;
+}
